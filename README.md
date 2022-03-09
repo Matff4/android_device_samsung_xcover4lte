@@ -1,1 +1,1 @@
-# android_device_samsung_xcover4lte
+Device tree for the Samsung Galaxy Xcover 4 (xcover4lte)
